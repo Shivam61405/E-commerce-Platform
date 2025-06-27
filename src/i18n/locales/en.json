@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "categories": "Categories",
+    "about": "About",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Login",
+    "signupButton": "Sign Up",
+    "name": "Full Name",
+    "confirmPassword": "Confirm Password",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "resetPassword": "Reset Password",
+    "backToLogin": "Back to Login"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "categories": {
+      "all": "All Products",
+      "clothing": "Clothing",
+      "accessories": "Accessories",
+      "electronics": "Electronics",
+      "footwear": "Footwear"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "empty": "Your wishlist is empty",
+    "addToCart": "Add to Cart"
+  }
+}

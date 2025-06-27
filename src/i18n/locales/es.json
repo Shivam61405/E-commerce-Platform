@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "categories": "Categorías",
+    "about": "Acerca de",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse"
+  },
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "loginButton": "Iniciar Sesión",
+    "signupButton": "Registrarse",
+    "name": "Nombre completo",
+    "confirmPassword": "Confirmar contraseña",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "noAccount": "¿No tienes una cuenta?",
+    "resetPassword": "Restablecer Contraseña",
+    "backToLogin": "Volver al Inicio de Sesión"
+  },
+  "product": {
+    "addToCart": "Añadir al carrito",
+    "addToWishlist": "Añadir a favoritos",
+    "categories": {
+      "all": "Todos los Productos",
+      "clothing": "Ropa",
+      "accessories": "Accesorios",
+      "electronics": "Electrónica",
+      "footwear": "Calzado"
+    }
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": "Tu carrito está vacío",
+    "total": "Total",
+    "checkout": "Proceder al Pago",
+    "remove": "Eliminar",
+    "quantity": "Cantidad"
+  },
+  "wishlist": {
+    "title": "Lista de Deseos",
+    "empty": "Tu lista de deseos está vacía",
+    "addToCart": "Añadir al Carrito"
+  }
+}
